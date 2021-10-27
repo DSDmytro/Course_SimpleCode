@@ -141,6 +141,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson70_Arithmetic overflo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson71_Nullable, Null Compatible Nullable Value Types", "Lesson71_Nullable, Null Compatible Nullable Value Types\Lesson71_Nullable, Null Compatible Nullable Value Types.csproj", "{CFD71248-7C2F-476D-B390-E3936A3DD081}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson72_Keyword Var", "Lesson72_Keyword Var\Lesson72_Keyword Var.csproj", "{13F4E492-65AB-4252-97FC-24A77412A124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +425,10 @@ Global
 		{CFD71248-7C2F-476D-B390-E3936A3DD081}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD71248-7C2F-476D-B390-E3936A3DD081}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD71248-7C2F-476D-B390-E3936A3DD081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F4E492-65AB-4252-97FC-24A77412A124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F4E492-65AB-4252-97FC-24A77412A124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F4E492-65AB-4252-97FC-24A77412A124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F4E492-65AB-4252-97FC-24A77412A124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
