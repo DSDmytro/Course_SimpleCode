@@ -151,6 +151,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson73_Enum_Day of week_E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson73_Enum_Color", "Lesson73_Enum_Color\Lesson73_Enum_Color.csproj", "{9FEC4892-A6E8-4F9D-B815-7327559D00E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson74_OOP_Class", "Lesson74_OOP_Class\Lesson74_OOP_Class.csproj", "{A4593E17-6307-430B-88A5-28366E965DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson74_OOP_Class_Example Student", "Lesson74_OOP_Class_Example Student\Lesson74_OOP_Class_Example Student.csproj", "{6452D63D-DEE8-4F6B-BF58-056113B93845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +457,14 @@ Global
 		{9FEC4892-A6E8-4F9D-B815-7327559D00E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FEC4892-A6E8-4F9D-B815-7327559D00E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FEC4892-A6E8-4F9D-B815-7327559D00E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4593E17-6307-430B-88A5-28366E965DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4593E17-6307-430B-88A5-28366E965DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4593E17-6307-430B-88A5-28366E965DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4593E17-6307-430B-88A5-28366E965DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6452D63D-DEE8-4F6B-BF58-056113B93845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6452D63D-DEE8-4F6B-BF58-056113B93845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6452D63D-DEE8-4F6B-BF58-056113B93845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6452D63D-DEE8-4F6B-BF58-056113B93845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
