@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson74_OOP_Class", "Lesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson74_OOP_Class_Example Student", "Lesson74_OOP_Class_Example Student\Lesson74_OOP_Class_Example Student.csproj", "{6452D63D-DEE8-4F6B-BF58-056113B93845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson75_Methods and Classes", "Lesson75_Methods and Classes\Lesson75_Methods and Classes.csproj", "{F411933C-E8B5-4832-84FD-93C1C4DD8E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -465,6 +467,10 @@ Global
 		{6452D63D-DEE8-4F6B-BF58-056113B93845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6452D63D-DEE8-4F6B-BF58-056113B93845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6452D63D-DEE8-4F6B-BF58-056113B93845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F411933C-E8B5-4832-84FD-93C1C4DD8E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F411933C-E8B5-4832-84FD-93C1C4DD8E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F411933C-E8B5-4832-84FD-93C1C4DD8E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F411933C-E8B5-4832-84FD-93C1C4DD8E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
