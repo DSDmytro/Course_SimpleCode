@@ -157,6 +157,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson74_OOP_Class_Example 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson75_Methods and Classes", "Lesson75_Methods and Classes\Lesson75_Methods and Classes.csproj", "{F411933C-E8B5-4832-84FD-93C1C4DD8E73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson75_Methods and Classes_Example Car", "Lesson75_Methods and Classes_Example Car\Lesson75_Methods and Classes_Example Car.csproj", "{6EED05EE-F462-4482-935F-7596EDE7A835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson76_Access modifiers_difference between public and private", "Lesson76_Access modifiers_difference between public and private\Lesson76_Access modifiers_difference between public and private.csproj", "{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -471,6 +475,14 @@ Global
 		{F411933C-E8B5-4832-84FD-93C1C4DD8E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F411933C-E8B5-4832-84FD-93C1C4DD8E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F411933C-E8B5-4832-84FD-93C1C4DD8E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EED05EE-F462-4482-935F-7596EDE7A835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EED05EE-F462-4482-935F-7596EDE7A835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EED05EE-F462-4482-935F-7596EDE7A835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EED05EE-F462-4482-935F-7596EDE7A835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
