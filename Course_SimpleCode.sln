@@ -161,6 +161,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson75_Methods and Classe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson76_Access modifiers_difference between public and private", "Lesson76_Access modifiers_difference between public and private\Lesson76_Access modifiers_difference between public and private.csproj", "{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson77_Encapsulation", "Lesson77_Encapsulation\Lesson77_Encapsulation.csproj", "{CCCF1E58-D32A-46E1-A007-69D881CADC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson78_Class Constructor", "Lesson78_Class Constructor\Lesson78_Class Constructor.csproj", "{807A4BFE-E9C9-47A7-BCE3-3E99BC770206}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +487,14 @@ Global
 		{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4BE49CD-B1EE-4FC3-A3DA-87350B6AB939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCF1E58-D32A-46E1-A007-69D881CADC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCF1E58-D32A-46E1-A007-69D881CADC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCF1E58-D32A-46E1-A007-69D881CADC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCF1E58-D32A-46E1-A007-69D881CADC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807A4BFE-E9C9-47A7-BCE3-3E99BC770206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807A4BFE-E9C9-47A7-BCE3-3E99BC770206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807A4BFE-E9C9-47A7-BCE3-3E99BC770206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807A4BFE-E9C9-47A7-BCE3-3E99BC770206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
