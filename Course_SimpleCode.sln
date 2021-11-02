@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson80_Keyword this", "Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson81_Get Set properties", "Lesson81_Get Set properties\Lesson81_Get Set properties.csproj", "{59727946-4534-412A-A163-E8DF3A0CB394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson82_Keyword Static", "Lesson82_Keyword Static\Lesson82_Keyword Static.csproj", "{40B48277-1716-4BD6-BA28-382BADA98F1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -525,6 +527,10 @@ Global
 		{59727946-4534-412A-A163-E8DF3A0CB394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59727946-4534-412A-A163-E8DF3A0CB394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59727946-4534-412A-A163-E8DF3A0CB394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B48277-1716-4BD6-BA28-382BADA98F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B48277-1716-4BD6-BA28-382BADA98F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B48277-1716-4BD6-BA28-382BADA98F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B48277-1716-4BD6-BA28-382BADA98F1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
