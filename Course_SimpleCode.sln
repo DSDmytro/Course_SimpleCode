@@ -177,6 +177,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson81_Get Set properties
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson82_Keyword Static", "Lesson82_Keyword Static\Lesson82_Keyword Static.csproj", "{40B48277-1716-4BD6-BA28-382BADA98F1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson83_Static Methods Static properties", "Lesson83_Static Methods Static properties\Lesson83_Static Methods Static properties.csproj", "{385B6974-BE32-42B7-88FF-71265F7232B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson83_Lesson83_Static Methods Static properties Example", "Lesson83_Lesson83_Static Methods Static properties Example\Lesson83_Lesson83_Static Methods Static properties Example.csproj", "{83370A66-8DE1-4957-A4C6-236E6F0BBE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson84_Static Constructor", "Lesson84_Static Constructor\Lesson84_Static Constructor.csproj", "{5A01D724-B6E7-4AEE-8313-68354E892091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson84_Static Constructor_Example DbRepository", "Lesson84_Static Constructor_Example DbRepository\Lesson84_Static Constructor_Example DbRepository.csproj", "{F69AE598-7939-4512-B3FF-A4E8FB1BDDC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson85_Static Class", "Lesson85\Lesson85_Static Class.csproj", "{3AEAD49A-EC0E-4292-A9CE-3DC867D8E5D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -531,6 +541,26 @@ Global
 		{40B48277-1716-4BD6-BA28-382BADA98F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B48277-1716-4BD6-BA28-382BADA98F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B48277-1716-4BD6-BA28-382BADA98F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385B6974-BE32-42B7-88FF-71265F7232B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385B6974-BE32-42B7-88FF-71265F7232B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385B6974-BE32-42B7-88FF-71265F7232B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385B6974-BE32-42B7-88FF-71265F7232B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83370A66-8DE1-4957-A4C6-236E6F0BBE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83370A66-8DE1-4957-A4C6-236E6F0BBE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83370A66-8DE1-4957-A4C6-236E6F0BBE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83370A66-8DE1-4957-A4C6-236E6F0BBE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A01D724-B6E7-4AEE-8313-68354E892091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A01D724-B6E7-4AEE-8313-68354E892091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A01D724-B6E7-4AEE-8313-68354E892091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A01D724-B6E7-4AEE-8313-68354E892091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69AE598-7939-4512-B3FF-A4E8FB1BDDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69AE598-7939-4512-B3FF-A4E8FB1BDDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69AE598-7939-4512-B3FF-A4E8FB1BDDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69AE598-7939-4512-B3FF-A4E8FB1BDDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEAD49A-EC0E-4292-A9CE-3DC867D8E5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEAD49A-EC0E-4292-A9CE-3DC867D8E5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEAD49A-EC0E-4292-A9CE-3DC867D8E5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEAD49A-EC0E-4292-A9CE-3DC867D8E5D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
