@@ -191,6 +191,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson86_Extension Methods"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson86_Extension Methods_Example Student", "Lesson86_Extension Methods_Example Student\Lesson86_Extension Methods_Example Student.csproj", "{9B1B7CF2-47BA-440E-9563-C92F1084A6B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson87_Partial Types, Partial Classes, Partial Methods", "Lesson 87_Partial Types, Partial Classes, Partial Methods\Lesson87_Partial Types, Partial Classes, Partial Methods.csproj", "{CB1B7DD9-FB0F-4202-85AD-0EF6F3C0BB20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -573,6 +575,10 @@ Global
 		{9B1B7CF2-47BA-440E-9563-C92F1084A6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B1B7CF2-47BA-440E-9563-C92F1084A6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B1B7CF2-47BA-440E-9563-C92F1084A6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB1B7DD9-FB0F-4202-85AD-0EF6F3C0BB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1B7DD9-FB0F-4202-85AD-0EF6F3C0BB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1B7DD9-FB0F-4202-85AD-0EF6F3C0BB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1B7DD9-FB0F-4202-85AD-0EF6F3C0BB20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
