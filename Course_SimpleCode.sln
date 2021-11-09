@@ -203,6 +203,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson89_Syntax for Initial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson90_Inheritance", "Lesson90_Inheritance\Lesson90_Inheritance.csproj", "{B9D48091-04DC-4ECD-9816-DF0CF93624EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson90_Inheritance_Example Person", "Lesson90_Inheritance_Example Person\Lesson90_Inheritance_Example Person.csproj", "{23F17E93-DBAB-46C8-B75F-D70E5E901CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson91_Keyword Base", "Lesson91_Keyword Base\Lesson91_Keyword Base.csproj", "{78C083E2-DC5F-4009-8F39-0B479426D127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -609,6 +613,14 @@ Global
 		{B9D48091-04DC-4ECD-9816-DF0CF93624EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D48091-04DC-4ECD-9816-DF0CF93624EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D48091-04DC-4ECD-9816-DF0CF93624EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F17E93-DBAB-46C8-B75F-D70E5E901CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F17E93-DBAB-46C8-B75F-D70E5E901CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F17E93-DBAB-46C8-B75F-D70E5E901CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F17E93-DBAB-46C8-B75F-D70E5E901CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C083E2-DC5F-4009-8F39-0B479426D127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C083E2-DC5F-4009-8F39-0B479426D127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C083E2-DC5F-4009-8F39-0B479426D127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C083E2-DC5F-4009-8F39-0B479426D127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

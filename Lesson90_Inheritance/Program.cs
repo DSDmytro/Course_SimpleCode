@@ -18,8 +18,12 @@ namespace Lesson90_Inheritance
         }
     }
     class Student : Person  // Реализация наследования. Класс Student наследует Person
-    {
-                            // Student наследует все свойства и методы 
+    {                       // Student наследует все свойства и методы 
+                            // В классах нет множественного наследования. В интерфейсах есть
+        public void Learn()
+        {
+            Console.WriteLine("I study");
+        }
     }
     class Program
     {
@@ -29,6 +33,10 @@ namespace Lesson90_Inheritance
             person.PrintName();
             Student student = new Student { FirstName = "Keyt", LastName = "Middleton" };
             student.PrintName();
+            student.Learn();
+            Person student2 = new Person { FirstName = "Tom", LastName = "Hanks" };
+            student2.PrintName();
+            // student2.Learn() - функционал исключительно наследника - класса Student 
         }
     }
 }
