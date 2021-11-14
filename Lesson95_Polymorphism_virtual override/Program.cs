@@ -32,7 +32,7 @@ namespace Lesson95_Polymorphism_virtual_override
     }
     class Person // ключевой момент, что при этом мы не меняем класс Person
     {
-        public void Drive(Car car)
+        public void DriveCar(Car car)
         {
             car.Drive();
         }
@@ -43,8 +43,8 @@ namespace Lesson95_Polymorphism_virtual_override
         {
             // Car car = new Car();
             Person person = new Person();
-            person.Drive(new Car());
-            person.Drive(new Sportcar());
+            person.DriveCar(new Car());
+            person.DriveCar(new Sportcar());
         }
     }
 }
