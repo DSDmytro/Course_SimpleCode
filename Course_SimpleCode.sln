@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson95_Polymorphism_virtu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson96_Abstract", "Lesson96_Abstract\Lesson96_Abstract.csproj", "{F063C10A-B867-45BE-AC37-1B07040C100D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson97_Interfaces", "Lesson97_Interfaces\Lesson97_Interfaces.csproj", "{8C2CD683-C506-4646-9D84-5620546254DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -645,6 +647,10 @@ Global
 		{F063C10A-B867-45BE-AC37-1B07040C100D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F063C10A-B867-45BE-AC37-1B07040C100D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F063C10A-B867-45BE-AC37-1B07040C100D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2CD683-C506-4646-9D84-5620546254DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2CD683-C506-4646-9D84-5620546254DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2CD683-C506-4646-9D84-5620546254DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2CD683-C506-4646-9D84-5620546254DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
