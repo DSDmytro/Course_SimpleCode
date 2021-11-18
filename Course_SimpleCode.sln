@@ -221,7 +221,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson98_Interface Inherita
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson99_Explicit Interface Implementation", "Lesson99_Explicit interface implementation\Lesson99_Explicit Interface Implementation.csproj", "{74672852-C680-419C-A7F4-6035D6A0320F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson100_Default Interface Implementation", "Lesson100_Default Interface Implementation\Lesson100_Default Interface Implementation.csproj", "{C11656DB-4174-4584-94EF-CFA6BF14AD75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson100_Default Interface Implementation", "Lesson100_Default Interface Implementation\Lesson100_Default Interface Implementation.csproj", "{C11656DB-4174-4584-94EF-CFA6BF14AD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson101_Structures", "Lesson101_Structures\Lesson101_Structures.csproj", "{CDE18C4A-6E39-49EA-AAC7-233F352DB3C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -669,6 +671,10 @@ Global
 		{C11656DB-4174-4584-94EF-CFA6BF14AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C11656DB-4174-4584-94EF-CFA6BF14AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C11656DB-4174-4584-94EF-CFA6BF14AD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE18C4A-6E39-49EA-AAC7-233F352DB3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE18C4A-6E39-49EA-AAC7-233F352DB3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE18C4A-6E39-49EA-AAC7-233F352DB3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE18C4A-6E39-49EA-AAC7-233F352DB3C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
