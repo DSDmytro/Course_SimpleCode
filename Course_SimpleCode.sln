@@ -227,6 +227,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson101_Structures", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson102_Boxing, Unboxing", "Lesson102_Boxing, Unboxing\Lesson102_Boxing, Unboxing.csproj", "{05FA7628-B3D0-4900-A25E-718E2CB96968}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson103_Generics", "Lesson103_Generics\Lesson103_Generics.csproj", "{E408450B-2643-4B3C-A6C4-4CB983B8F77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson104_Generics, Performance, Collections, List vs Arraylist", "Lesson104_Generics, Performance, Collections, List vs Arraylist\Lesson104_Generics, Performance, Collections, List vs Arraylist.csproj", "{39990C77-8682-4B84-B329-C97B46EEC96C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -681,6 +685,14 @@ Global
 		{05FA7628-B3D0-4900-A25E-718E2CB96968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05FA7628-B3D0-4900-A25E-718E2CB96968}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05FA7628-B3D0-4900-A25E-718E2CB96968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E408450B-2643-4B3C-A6C4-4CB983B8F77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E408450B-2643-4B3C-A6C4-4CB983B8F77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E408450B-2643-4B3C-A6C4-4CB983B8F77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E408450B-2643-4B3C-A6C4-4CB983B8F77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39990C77-8682-4B84-B329-C97B46EEC96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39990C77-8682-4B84-B329-C97B46EEC96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39990C77-8682-4B84-B329-C97B46EEC96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39990C77-8682-4B84-B329-C97B46EEC96C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
